@@ -1,0 +1,18 @@
+Tempo do projeto:
+
+Acabei demorando 4 dias para realizar o projeto, mas não consegui entregara tudo por falta de tempo.
+
+Tecnologias utilizadas:
+
+Desenvolvi em Python 3, framework Flask e banco de dados SQLlite(SQLAlchemy)
+Tive dificuldades em poder implementar a autenticação utilizando a conta do google, pois como nunca havia trabalhando com esse tipo de autenticação antes,
+senti dificuldade e acabei não concluindo essa parte, o que fez que comprometesse o resto do projeto. O desafio foi utilizar um framework que eu nunca havia usado antes
+ e uma linguagem que estou aprendendo agora, que é o Python, entao esse foi o meu primeiro projeto Com Python.
+
+Instrução para executar:
+
+terá que baixar todas as pastas dentro de uma única pasta.
+Executar: python desafiovoxus.py para executar o projeto.
+
+Caso de algo de errado( espero que não =D) como fiz utilizando virtual env, tera que ser instalado o mesmo juntamente 
+com o Flask para poder rodar o projeto.
